@@ -1,0 +1,26 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>lucero.luciano.com</groupId>
+  <artifactId>CSCtoEXCEL</artifactId>
+  <version>0.0.1</version>
+  <name>CSC2EXCEL</name>
+  
+  <repositories>
+	  <repository>
+	    <id>AsposeJavaAPI</id>
+	    <name>Aspose Java API</name>
+	    <url>https://repository.aspose.com/repo/</url>
+	</repository>
+  </repositories>
+  
+  <dependencies>  
+  	<dependency>
+	    <groupId>com.aspose</groupId>
+	    <artifactId>aspose-cells</artifactId>
+	    <version>20.8</version>
+	</dependency>
+  </dependencies>
+  
+  
+  
+</project>
